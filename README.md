@@ -1,6 +1,11 @@
 # Raw-Gestures
 
 An Arduino project which is based on controlling video functions using gestures with three axis accelerometer
+<br/>
+
+![mainpic](pic.JPG?raw=true)
+
+<br/>
 
 ## Steps to run Raw Gestures 
 1. Clone this repo.
